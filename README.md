@@ -9,4 +9,4 @@ Programa desenvolvido em **Java** para a Sprint 1 da Trilha Backend, cujo objeti
 ## 💻 Como executar o projeto
 1. Clone o repositório para a sua máquina:
    ```bash
-   git clone https://github.com/grazidiniz13/trilha-backend-sprint1/tree/main
+   git clone https://github.com/grazidiniz13/HelloWorld.java/tree/master/HelloWorld.java
